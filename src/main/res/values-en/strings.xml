@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Cat and Dog counter</string>
+    <string name="Text" translatable="false">Dogs</string>
+    <string name="Text2" translatable="false">Cats</string>
+    <string name="Text3" translatable="false">Reset</string>
+</resources>
